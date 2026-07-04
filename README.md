@@ -51,7 +51,7 @@ größte technische Risiko ist der fehlende CO5300-Displaytreiber in
 | INT | 38 |
 | RESET | 9 |
 
-Hinweis: GPIO38 ist kein RTC-GPIO, daher kein Deep-Sleep-Wakeup per Touch.
+Hinweis: GPIO38 ist kein RTC-GPIO, daher kein Deep-Sleep-Wake-up per Touch.
 
 #### Gemeinsamer I2C-Bus
 
